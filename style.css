@@ -30,7 +30,7 @@ body{
   display: inline;
   padding:10px;
   color: #534d90;
-  text-decoration:none;
+  text-decoration: none;
 } 
 
 .nav a:hover{
@@ -72,28 +72,3 @@ body{
   top: 0;
   left: 0;
 }
-
-/* nav ul{
-  margin:0; 
-  padding: 0;
-  list-style: none;
-  float: center;
-}
-
-nav li{
-  margin-bottom: 1em;
-  margin-left: 1em;
-  float: left;
-}
-
-nav a {
-  color: brown;
-  text-decoration: none;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  font-size: 18px;
-}
-
-nav a:hover{
-  color: #000;
-}  */
